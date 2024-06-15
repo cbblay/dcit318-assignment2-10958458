@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace IMovable
 {
+    //Creating interface IMovable
     internal class Program
     {
         public interface IMovable
         {
             void Move();
         }
+        
+        //Creating classes Car and Bicycle
         public class Car : IMovable
         {
             public void Move()
@@ -26,6 +29,7 @@ namespace IMovable
                 Console.WriteLine("Bicycle is moving.");
             }
         }
+        //Creating instances
         static void Main(string[] args)
         {
             Car car = new Car();
