@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cyrus\\source\\repos\\Animal\\",
+  "WorkspaceRootPath": "C:\\Users\\cyrus\\dcit318-assignment2-10958458\\Animal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C922EED-5864-4431-8143-79C0515F33D1}|Animal.csproj|c:\\users\\cyrus\\source\\repos\\animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C922EED-5864-4431-8143-79C0515F33D1}|Animal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cyrus\\dcit318-assignment2-10958458\\Animal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\Animal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\dcit318-assignment2-10958458\\Animal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\Animal\\Program.cs",
+              "ToolTip": "C:\\Users\\cyrus\\dcit318-assignment2-10958458\\Animal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAA/wCgAAAAcAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswCgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T00:21:04.451Z",
               "EditorCaption": ""
