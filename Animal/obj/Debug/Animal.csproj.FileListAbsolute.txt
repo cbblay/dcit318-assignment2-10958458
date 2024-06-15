@@ -1,0 +1,7 @@
+C:\Users\cyrus\source\repos\Animal\bin\Debug\Animal.exe.config
+C:\Users\cyrus\source\repos\Animal\bin\Debug\Animal.exe
+C:\Users\cyrus\source\repos\Animal\bin\Debug\Animal.pdb
+C:\Users\cyrus\source\repos\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Users\cyrus\source\repos\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\Animal\obj\Debug\Animal.exe
+C:\Users\cyrus\source\repos\Animal\obj\Debug\Animal.pdb
