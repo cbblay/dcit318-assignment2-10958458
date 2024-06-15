@@ -1,0 +1,7 @@
+C:\Users\cyrus\source\repos\IMovable\bin\Debug\IMovable.exe.config
+C:\Users\cyrus\source\repos\IMovable\bin\Debug\IMovable.exe
+C:\Users\cyrus\source\repos\IMovable\bin\Debug\IMovable.pdb
+C:\Users\cyrus\source\repos\IMovable\obj\Debug\IMovable.csproj.AssemblyReference.cache
+C:\Users\cyrus\source\repos\IMovable\obj\Debug\IMovable.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\source\repos\IMovable\obj\Debug\IMovable.exe
+C:\Users\cyrus\source\repos\IMovable\obj\Debug\IMovable.pdb
